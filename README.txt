@@ -26,28 +26,28 @@ These tests are done with TMC2209 drivers
 
 Details:
 X: Target: reduce/eliminate VFA
-Stock motor serial:
+Stock motor serial: BJ42D22-53V04
 Stock motor current: 0.8A
 
-Upgraded motor serial:
+Upgraded motor serial: 17ME15-1504S
 Upgraded motor current: 0.8A
 
 Y: Target velocity: 500mm/s (All tests are done with this velocity)
-Stock motor serial:
+Stock motor serial: ?
 Stock current: 1.4A (Unsure if it can be pushed higher)
 20T pulley stock motor max usable accel: 7800mm^2/s
 16T pulley stock motor max usable accel: ?
 
-Upgraded motor serial:
+Upgraded motor serial: 17HE19-2004S
 Upgraded motor current: 1.7A
 20T pulley upgraded motor max usable accel: ?
 16T pulley upgraded motor max usable accel: ?
 
 E: Target volumetric speed: higher than stock
-Stock motor serial:
+Stock motor serial: BJY36D12-04V05
 Stock motor current: 0.9A (Specsheet unknown, but usually these NEMA14 are rated at 1A max)
 Stock max volumetric speed: 38.4mm^/s
 
-Upgraded motor serial:
+Upgraded motor serial: 14RE08-1004S-H
 Upgraded motor current: 0.8A
 Upgraded motor max volumetric speed: ?
